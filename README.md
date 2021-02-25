@@ -1,12 +1,11 @@
-# Replace this with the Project Name
+# Varied Learning - BashIt
 
 Replace this text with a brief introduction to the problem space.
 
 ## Team Members
 
-* **Full Name 1** - Summary of contributions
-* **Full Name 2** - Summary of contributions
-* **Full Name 3** - Summary of contributions
+* **Kailey Stauble** - Summary of contributions
+* **Ceasar Salas** - Summary of contributions
 
 # User-Centered Design Artifacts
 
