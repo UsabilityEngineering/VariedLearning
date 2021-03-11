@@ -73,22 +73,22 @@ For our study documentation method, we asked ourselves questions such as “how 
 
 We hoped to get answers to two broad questions for each of the research gathering methods we mentioned, questionnaire and study documentation. 
 
-*Online questionnaire: 'what is the user's existing knowledge of Bash?' *
+_Online questionnaire: 'what is the user's existing knowledge of Bash?'_<br>
 Perhaps it was a result of biased data, but we have found that a significant portion of our responses indicated(I do not know anything about Bash; 83.3% disagree) a high or sufficient level of existing understanding of Bash and command line. Although the responders who answered they knew little were a minority(I do not know anything about Bash; 12.5% agree), it is still notable that our product would be useful to such a group. 
 
-_Online questionnaire: 'what does this user hope to learn about Bash?'_
- A large majority(I would like to learn more about Bash; 75%) of responses have a strong indicatication toward wanting to learn something new. This majority only grows as when the user has been asked about learning a specific functionality of Bash, Makefile was a given example. In the short answer section of "What do you find the most intimidating about learning Bash?" we got a large variety of responses that were fairly consistent with what we expected. The responder's worries are able to be easily categorized, and such responses most commonly in the realm of concerning syntax. 
+_Online questionnaire: 'what does this user hope to learn about Bash?'_<br>
+A large majority(I would like to learn more about Bash; 75%) of responses have a strong indicatication toward wanting to learn something new. This majority only grows as when the user has been asked about learning a specific functionality of Bash, Makefile was a given example. In the short answer section of "What do you find the most intimidating about learning Bash?" we got a large variety of responses that were fairly consistent with what we expected. The responder's worries are able to be easily categorized, and such responses most commonly in the realm of concerning syntax. 
 
-_Study Documentation: 'what is the interface to get the content currently?'_
- The current interfaces for reliable data are the official man pages that can be viewed through the terminal using the command "man" and the other two websites we mentioned which show the content in a slightly different format. These formats are entirely text based, with no code segments to demonstrate usage. The terminal format is entirely text with no direct links to other reference pages or the like. From there, there is no easy way to get exact information for troubleshooting or other assisting details(What is the number next to the command for? is a common one). 
+_Study Documentation: 'what is the interface to get the content currently?'_<br>
+The current interfaces for reliable data are the official man pages that can be viewed through the terminal using the command "man" and the other two websites we mentioned which show the content in a slightly different format. These formats are entirely text based, with no code segments to demonstrate usage. The terminal format is entirely text with no direct links to other reference pages or the like. From there, there is no easy way to get exact information for troubleshooting or other assisting details(What is the number next to the command for? is a common one). 
 Below is a screenshot of the terminal interface of the 'man' page for 'man'. For refrence, 'man' is short for manual and is the go to command for learning about any Bash command that you are uncertain of.
 
 ![Screenshot of man man page](./man-page-screen-page.png "Man Page Screenshot")
 
-_Study Documentation: 'how could the content be made more readable?'_ 
+_Study Documentation: 'how could the content be made more readable?'_<br>
 The content can be made readable through a combination of font differences, prioritized content, and stronger notices for how the specific information can get used. Many of the words by function in these files are all caps, bolded, or italicized, with little to no direct explanation as to why. Usage of a particular command can also be confusing to first time readers. The  website like cplusplus.com as a reference for a better readable format, compared to the less readable cppreferrence.com website. 
 
-_Study Documentation: 'how easy is it to understand and use the content?'_
+_Study Documentation: 'how easy is it to understand and use the content?'_<br>
 As mentioned in the above paragraph: there are no links to other helpful pages, the font style may change, and there are other unexplained details. The content feels very raw to most first time users and can be very intimidating. Much of the locatable help pages do not expand into more complicated commands or functions. While StackOverflow is very useful for troubleshooting, since it is in a forum format, the help may not be applicable to the user. 
 
 ***
