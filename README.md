@@ -35,7 +35,7 @@ From the data points above, we have found that a large majority would make use o
 
 [Full phase 1 report](phase1/)
 
-## Phase 2: Interaction Design
+## Phase 2: User-Centered Design
 
 We have created and revised a collection of wireframes that can serve as a first draft of our design. The overall source of inspiration for the wireframes is a combination of simplicity, learnability, and relatable contemporary design. Simplicity and Learnibllty come in the forms of trying to have things divided and spaced so that it is easy to differentiate between categories while feeling intuitive to the user. For our more contemporary features, we used the websites: Codecademy.com, StackOverflow.com, and CPlusPlus.com as our references. 
 
