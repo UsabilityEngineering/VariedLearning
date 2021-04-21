@@ -10,8 +10,8 @@ The problem space that our group is working on is varied learning, specifically 
 ## User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](#)
-* [Prototype](#)
+* [Wireframes](https://github.com/UsabilityEngineering/VariedLearning/tree/master/phase2/UX_Project_ArtBoards)
+* [Prototype Draft](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/)
 
 ## Phase 1: Requirements Gathering
 
@@ -37,7 +37,7 @@ From the data points above, we have found that a large majority would make use o
 
 ## Phase 2: Interaction Design
 
-*Coming Soon*
+We have created and revised a collection of wireframes that can serve as a first draft of our design. The overall source of inspiration for the wireframes is a combination of simplicity, learnability, and relatable contemporary design. Simplicity and Learnibllty come in the forms of trying to have things divided and spaced so that it is easy to differentiate between categories while feeling intuitive to the user. For our more contemporary features, we used the websites: Codecademy.com, StackOverflow.com, and CPlusPlus.com as our references. 
 
 [Full phase 2 report](phase2/)
 
