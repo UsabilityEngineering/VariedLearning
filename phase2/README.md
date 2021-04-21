@@ -21,5 +21,5 @@
 ![Wireframe of Make Forum Post](./UX_Project_ArtBoards/Make-Forum-Post.png "Make Forum Post Wireframe")
 ![Wireframe of Man Page Example](./UX_Project_ArtBoards/Man-Page-Example.png "Man Page Example Wireframe")
 ![Wireframe of Other User View of Accounts](./UX_Project_ArtBoards/Other-User-View-of-Accounts.png "Other User View of Accounts Wireframe")
-![Wireframe of Search Results](./UX_Project_ArtBoards/Search_Results.png "Search Results Wireframe")
+![Wireframe of Search Results](./UX_Project_ArtBoards/Search-Results.png "Search Results Wireframe")
 
