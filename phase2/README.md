@@ -116,10 +116,10 @@ This is a placeholder page that indicates that the user will be transferred to a
 ### Supplementary Materials
 
 ##### Link to our Prototype in Adobe XD
-CLick through prototype:
+Click through prototype:  
 https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/
 
-List of comprehensive wireframes
+List of comprehensive wireframes:  
 https://github.com/UsabilityEngineering/VariedLearning/tree/master/phase2/UX_Project_ArtBoards
 
 
