@@ -33,7 +33,7 @@ The information page is sorted based on user knowledge; the user will select the
 ##### ***Learn More Page:***
 The learn more page is where the platform has curated lessons that integrate many different ways of learning in order to help users retain what they learn. On this page, users can choose a topic and rather than selecting how they want to learn, they can go through these step by step lessons which are a more guided approach to learning Bash. These lessons range from basic commands to writing scripts and can cater to any user.
 
-![Wireframe of Learn More Page](./UX_Project_ArtBoards/Learn-More-Page.png "Learn More Page Wireframe")
+![Wireframe of Learn More Page](./UX_Project_ArtBoards/Learn_More_Page.png "Learn More Page Wireframe")
 
 *** 
 
@@ -116,7 +116,10 @@ This is a placeholder page that indicates that the user will be transferred to a
 ### Supplementary Materials
 
 ##### Link to our Prototype in Adobe XD
-
+CLick through prototype:
 https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/
+
+List of comprehensive wireframes
+https://github.com/UsabilityEngineering/VariedLearning/tree/master/phase2/UX_Project_ArtBoards
 
 
