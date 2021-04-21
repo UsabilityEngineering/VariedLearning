@@ -1,4 +1,4 @@
-## Phase 2: Interaction Design
+## Phase 2: User-Centered Design
 
 ### Executive Summary 
 
