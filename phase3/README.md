@@ -18,6 +18,7 @@ Within this report are all concerning links as well as a description of why we h
 The Usability test should make use of the [Adobe XD Wireframe Prototype](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/) for use by the participant in their completion of their tasks. 
 
 ***
+***
 
 ### Our Usability Protocol
 
@@ -33,6 +34,7 @@ The Usability test should make use of the [Adobe XD Wireframe Prototype](https:/
 [Google Sheets Link](https://docs.google.com/spreadsheets/d/1FIqq6j3p5KgUfBvEwHWqkdQP7pWZI4gLfAT9lYCWlLQ/edit?usp=sharing)
 
 &nbsp;&nbsp;&nbsp;&nbsp;The google sheets makes use of the fact that there can be multiple sheets within a single document. There is a seperate sheet for each section and task. This allows for easy expansion of catagories and seperation of data for clearity. 
+
 
 #### Adobe XD Wireframe-based Prototype 
 
@@ -52,14 +54,15 @@ three to five basic objectives for the participant to complete. Each task is fol
 &nbsp;&nbsp;&nbsp;&nbsp;We predict the whole procedure, not including the informed consent and related questions, will take about thirty to forty-five minutes. 
 
 ***
+***
 
 ### Our Usability Protocol Explanation and Reasoning
 
 #### Introduction
 
 &nbsp;&nbsp;&nbsp;&nbsp;The introduction informs the user of what the usability test will entail and asks if there are any general questions before the test begins.
+  
 
-<br>
 #### Background
 
 &nbsp;&nbsp;&nbsp;&nbsp;The background questions are intended to get an idea of the experiences that the user has with coding before the usability test. These questions will help us determine how more or less experienced users may feel about the site and allow us to ensure we are catering to all knowledge levels.
