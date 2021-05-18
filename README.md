@@ -4,10 +4,17 @@ The problem space that our group is working on is varied learning, specifically 
 
 ## The Varied Learning Team 
 
-* **Kailey Stauble** - The bug safari extraordinaire. Wrote the majority of Phase 1 report and confirmed phase 1 changes made to Github. Assisted with the wireframes and prototype. Wrote explanations for wireframes as well as protocol tasks and questions for phase 3. Assisted in writing the protocol. 
-[Link to Journals](https://usabilityengineering.github.io/ux-portfolio-kkstauble/)
+* **Kailey Stauble** - The bug safari extraordinaire. 
+    * Wrote the majority of Phase 1 report and confirmed phase 1 changes made to Github. 
+    * Assisted with the wireframes and prototype. 
+    * Wrote explanations for wireframes as well as protocol tasks and questions for Phase 3. Assisted in writing the protocol. 
+    * [Link to Journals](https://usabilityengineering.github.io/ux-portfolio-kkstauble/)
 
-* **Ceasar Salas** - The code crunching garden gnome. Moved Phase 1 report from Google Doc to markdown file format on Github and made relevant changes to main ReadMe.
+* **Ceasar Salas** - The code crunching garden gnome. 
+    * Moved Phase 1 report from Google Doc to markdown file format on Github and made relevant changes to main ReadMe.
+    * Helped to make wireframes and add prototype functionality. Also added everything to the github Phase 2 report under Kailey's supervision. 
+    * Helped to write write the protocol and then completed the data-input spreadsheet for Phase 3. Added Kailey's explanations and wrote executive summary for phase 3 report.
+    * [Ceasar's UX Journal](https://usabilityengineering.github.io/ux-portfolio-CSalas6/)
 
 ## User-Centered Design Artifacts
 
