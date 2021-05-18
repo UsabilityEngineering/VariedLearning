@@ -59,7 +59,7 @@ three to five basic objectives for the participant to complete. Each task is fol
 
 &nbsp;&nbsp;&nbsp;&nbsp;The introduction informs the user of what the usability test will entail and asks if there are any general questions before the test begins.
 
-
+<br>
 #### Background
 
 &nbsp;&nbsp;&nbsp;&nbsp;The background questions are intended to get an idea of the experiences that the user has with coding before the usability test. These questions will help us determine how more or less experienced users may feel about the site and allow us to ensure we are catering to all knowledge levels.
