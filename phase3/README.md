@@ -78,12 +78,8 @@ three to five basic objectives for the participant to complete. Each task is fol
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This question is more specific to the website itself and gives us an idea of how familiar the user may be with Bash specifically before interacting with our platform intended to teach users Bash. This information may explain how the user interacts with the site or how their experience may differ based on their familiarity with Bash. 
 
 
-##### Question 3: *Have you used websites to answer questions regarding your code?*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The third question is intended to discover whether the user is familiar with using the internet and websites to answer questions regarding code. This is another way to gauge previous knowledge but also is more specific to how the user will interact with our particular website.
-
-
-##### Question 4: *Have you used any websites to learn how to code?*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The final background question is specific to users who may have used the internet to learn how to code which would give them an advantage when it comes to navigating the website. These users may find the site to be more or less efficient than other sites they have used and may provide valuable feedback.
+##### Question 3: *Have you used any websites to learn how to code?*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The final background question is specific to users who may have used the internet to learn how to code which would give them an advantage when it comes to navigating the website. These users may find the site to be more or less efficient than other sites they have used and may provide valuable feedback. The final background question is specific to users who may have used the internet to learn how to code or answer questions regarding their code which would give them an advantage when it comes to navigating the website.
 
 ***
 #### Tasks
