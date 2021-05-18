@@ -12,7 +12,7 @@ The problem space that our group is working on is varied learning, specifically 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](https://github.com/UsabilityEngineering/VariedLearning/tree/master/phase2/UX_Project_ArtBoards)
 * [Prototype Draft](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/)
-* [Bash_It Evaluation Protocol](phase3/Bash_It Usability Protocol.pdf)
+* [Bash_It Evaluation Protocol](phase3/Bash_It Usability Protocol.pdf "Bash_It Evaluation Protocol")
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1FIqq6j3p5KgUfBvEwHWqkdQP7pWZI4gLfAT9lYCWlLQ/edit?usp=sharing)
 * [Adobe XD Wireframe Prototype](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/)
 
@@ -46,7 +46,7 @@ We have created and revised a collection of wireframes that can serve as a first
 
 ## Phase 3: Usability Evaluation
 
-Our [Bash_It Evaluation Protocol](phase3/Bash_It Usability Protocol.pdf) follows the standard introduction, background, tasks, wrap-up format. 
+Our [Bash_It Evaluation Protocol](phase3/Bash_It Usability Protocol.pdf "Bash_It Evaluation Protocol") follows the standard introduction, background, tasks, wrap-up format. 
 The protocol should be used in conjunction with the linked [Google Sheets](https://docs.google.com/spreadsheets/d/1FIqq6j3p5KgUfBvEwHWqkdQP7pWZI4gLfAT9lYCWlLQ/edit?usp=sharing) spreadsheet for detailed note taking. 
   
 Evaluation Protocol by the numbers:
