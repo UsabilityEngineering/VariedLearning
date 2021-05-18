@@ -12,6 +12,9 @@ The problem space that our group is working on is varied learning, specifically 
 * [Personas and Scenarios](personas-scenarios.md)
 * [Wireframes](https://github.com/UsabilityEngineering/VariedLearning/tree/master/phase2/UX_Project_ArtBoards)
 * [Prototype Draft](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/)
+* [Bash_It Evaluation Protocol](./Bash_It Usability Protocol.pdf)
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1FIqq6j3p5KgUfBvEwHWqkdQP7pWZI4gLfAT9lYCWlLQ/edit?usp=sharing)
+* [Adobe XD Wireframe Prototype](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/)
 
 ## Phase 1: Requirements Gathering
 
@@ -43,6 +46,18 @@ We have created and revised a collection of wireframes that can serve as a first
 
 ## Phase 3: Usability Evaluation
 
-*Coming Soon*
+Our [Bash_It Evaluation Protocol](./Bash_It Usability Protocol.pdf) follows the standard introduction, background, tasks, wrap-up format. 
+The protocol should be used in conjunction with the linked [Google Sheets](https://docs.google.com/spreadsheets/d/1FIqq6j3p5KgUfBvEwHWqkdQP7pWZI4gLfAT9lYCWlLQ/edit?usp=sharing) spreadsheet for detailed note taking. 
+  
+Evaluation Protocol by the numbers:
+* There are **4 background** questions
+* There are **4 tasks** to complete 
+   * Each task has **3 to 5** objectives to complete
+   * Each task is **followed by a satisfaction** question concerning the task's difficulty
+* There are **7 wrap up** questions to review the protocol
+* The usability test should **take 30 to 45 minutes**
+  
+Within this report are all concerning links as well as a description of why we have each question or task. 
+The Usability test should make use of the [Adobe XD Wireframe Prototype](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/) for use by the participant in their completion of their tasks. 
 
 [Full phase 3 report](phase3/)
