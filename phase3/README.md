@@ -68,11 +68,11 @@ three to five basic objectives for the participant to complete. Each task is fol
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The background questions are intended to get an idea of the experiences that the user has with coding before the usability test. These questions will help us determine how more or less experienced users may feel about the site and allow us to ensure we are catering to all knowledge levels.
 
 
-##### Question 1:* Do you know how to code?*
+##### Question 1: *Do you know how to code?*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first question is seeking baseline knowledge for coding in general. If the user does know how to code, we will gather information such as the languages they know as well as where they learned how to code, whether that is in the classroom or online. 
 
 
-##### Question 2:* Are you familiar with Bash?*
+##### Question 2: *Are you familiar with Bash?*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This question is more specific to the website itself and gives us an idea of how familiar the user may be with Bash specifically before interacting with our platform intended to teach users Bash. This information may explain how the user interacts with the site or how their experience may differ based on their familiarity with Bash. 
 
 
