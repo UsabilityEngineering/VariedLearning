@@ -5,8 +5,9 @@
 
 ### Executive Summary
 
-Our [Bash_It Protocol](./Bash_It Usability Protocol.pdf) follows the standard introduction, background, tasks, wrap-up format. 
+Our [Bash_It Evaluation Protocol](phase3/Assets/Bash_It-Usability-Protocol.pdf) follows the standard introduction, background, tasks, wrap-up format. 
 The protocol should be used in conjunction with the linked [Google Sheets](https://docs.google.com/spreadsheets/d/1FIqq6j3p5KgUfBvEwHWqkdQP7pWZI4gLfAT9lYCWlLQ/edit?usp=sharing) spreadsheet for detailed note taking. 
+  
 Protocol by the numbers:
 * There are **4 background** questions
 * There are **4 tasks** to complete 
@@ -14,6 +15,7 @@ Protocol by the numbers:
    * Each task is **followed by a satisfaction** question concerning the task's difficulty
 * There are **7 wrap up** questions to review the protocol
 * The usability test should **take 30 to 45 minutes**
+  
 Within this report are all concerning links as well as a description of why we have each question or task. 
 The Usability test should make use of the [Adobe XD Wireframe Prototype](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/) for use by the participant in their completion of their tasks. 
 
@@ -24,9 +26,9 @@ The Usability test should make use of the [Adobe XD Wireframe Prototype](https:/
 
 #### Protocol PDF contained on Github:
 
-[Bash_It Protocol](./Bash_It Usability Protocol.pdf) 
+[Bash_It Protocol](phase3/Assets/Bash_It-Usability-Protocol.pdf) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Protocol is originally written on Google Docs and is an internal document. The protocol's format and design was inspired by a short [Zillow Evaluation Protocol](./Protocol-Zillow-2019.pdf) sheet.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Protocol is originally written on Google Docs and is an internal document. The protocol's format and design was inspired by a short [Zillow Evaluation Protocol](phase3/Assets/Protocol-Zillow-2019.pdf) sheet.
 
 ***
 #### Google Sheets link for Data Note-taking
