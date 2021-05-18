@@ -19,7 +19,7 @@ The problem space that our group is working on is varied learning, specifically 
 ## User-Centered Design Artifacts
 
 * [Personas and Scenarios](personas-scenarios.md)
-* [Wireframes](https://github.com/UsabilityEngineering/VariedLearning/tree/master/phase2/UX_Project_ArtBoards)
+* [Wireframes](phase2/UX_Project_ArtBoards/Bash_It-Wireframes.pdf)
 * [Prototype Draft](https://xd.adobe.com/view/c58e83a1-0a07-43b8-a67d-16913158bbbc-90dd/)
 * [Bash_It Evaluation Protocol](phase3/Assets/Bash_It-Usability-Protocol.pdf "Bash_It Evaluation Protocol")
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1FIqq6j3p5KgUfBvEwHWqkdQP7pWZI4gLfAT9lYCWlLQ/edit?usp=sharing)
